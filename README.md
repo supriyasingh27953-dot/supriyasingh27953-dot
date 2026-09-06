@@ -1,6 +1,20 @@
+# 💫 Hi 👋, I'm Supriya singh
+**Robotics and Automation Engineering Student
+
+Email Me 👉 ✉️ **supriyasingh27953@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m student at:** Zeal Collage of Engineering and Research
+- 🌱 **I’m currently learning:** C, C++, Python, Mathlab, Autocad
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/supriya_singh.s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supriyasingh27953@gmail,com) 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
